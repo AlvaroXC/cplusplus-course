@@ -12,7 +12,10 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
+   
+    
     char animal [20] = "bear";
+    
     const char * bird = "wren"; //bird holds the addres of string, assign the addres of wren to bird pointer
     char * ps; //uninitialized
     
